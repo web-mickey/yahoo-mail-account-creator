@@ -1,5 +1,4 @@
 # yahoo-mail-account-creator
-Mail creator
 
 Simple yahoo account creator. It uses proxies + cookies that needs to be pasted. It also uses https://sms-activate.ru/ for getting phone numbers to activate accounts. It creates random word as a name, surname and also email.
 
