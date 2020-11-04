@@ -8,3 +8,7 @@ Simple yahoo account creator. It uses proxies + cookies that needs to be pasted.
 - Cookies are in cookies.js file, they should be pasted as array.
 - SMS-activate.ru API key should be pasted in apiKey.js file.
 - You can select countries from which bot should buy numbers, they are in countries.js file. Right now there are cheaper ones.
+
+
+
+!!! Project was made for informational and educational purposes only !!!
