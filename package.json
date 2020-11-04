@@ -1,0 +1,25 @@
+{
+  "name": "patrol-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@infosimples/node_two_captcha": "^1.0.2",
+    "modern-random-ua": "^1.0.3",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.3.1",
+    "puppeteer-cluster": "^0.22.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.6.2",
+    "puppeteer-page-proxy": "^1.2.8",
+    "puppeteer-proxy": "^2.1.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
