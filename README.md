@@ -1,6 +1,6 @@
 # yahoo-mail-account-creator
 
-Simple yahoo account creator. It uses proxies + cookies that needs to be pasted. It also uses https://sms-activate.ru/ for getting phone numbers to activate accounts. It creates random word as a name, surname and also email.
+Simple yahoo account creator. It uses proxies + cookies that needs to be pasted. It also uses sms-activate.ru for getting phone numbers to activate accounts. It creates random word as a name, surname and also email.
 
 
 - Proxies are in proxies.txt file, I pasted some random ones to show how should they be formatted.
